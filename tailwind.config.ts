@@ -10,14 +10,6 @@ export default {
   theme: {
   	extend: {
   		colors: {
-			primarygray: "#d1d5db",
-			secondarygray: "#9ca3af",
-			primarydark: "#1e293b",
-			secondarydark: "#0f172a",
-			primaryviolet:"#8b5cf6",
-			midviolet: "#6d28d9",
-			secondaryviolet: "#5b21b6",
-					
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
