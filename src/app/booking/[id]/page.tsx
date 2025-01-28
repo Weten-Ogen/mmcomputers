@@ -1,11 +1,11 @@
 import React from 'react'
 
-interface pageprops {
+interface pagprops {
     params : {
         id: string
     }
 }
-export default function page(props:  pageprops) {
+export default function page(props:  pagprops) {
   return (
     <div>page</div>
   )
