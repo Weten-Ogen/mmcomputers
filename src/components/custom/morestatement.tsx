@@ -17,10 +17,10 @@ const MoreStatement = (props: moreprops) => {
             id='morestatement'
     >
             <div className=''>
-                <h2 className='md:text-center max-w-sm uppercase md:text-5xl p-4 md:max-w-md md:mx-auto font-bold'>
+                <h2 className='md:text-center max-w-sm uppercase text-primaryFont text-center font-poppins  underline underline-offset-2 p-4 md:max-w-md md:mx-auto font-bold'>
                     {StatementContent.secondStatementHeading}
                 </h2>
-                <p className='p-4'>{StatementContent.secondStatement}</p>
+                <p className='p-4 text-extraSmall font-medium text-left font-poppins'>{StatementContent.secondStatement}</p>
                 <div>
                     <div className='p-4 max-w-lg object-contain '>
                         <Image

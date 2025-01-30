@@ -12,9 +12,13 @@ interface serviceprops {
 const Services = (props: serviceprops) => {
   return (
     <section
-          className={cn('min-h-screen',props.className)}
+          className={cn('min-h-screen object-contain flex items-start gap-10',props.className)}
     id="services">
-        <div className='grid grid-cols-2 gap-4'>
+      <div 
+            className='h-[100%] w-20 bg-black'
+        />
+        <div className='grid grid-cols-1  items-center gap-4  w-full '>
+          
           {
             ServicesContent.services.map((item) => {
               return (

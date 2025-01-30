@@ -5,17 +5,17 @@ import React from 'react'
 const Gallery = () => {
   return (
     <section 
-        className='min-h-[220vh] mt-20' 
+        className='min-h-[220vh] mt-4' 
         id='gallery'
     >
         <div>
             <h2 
-                className='text-center text-4xl font-bold italic uppercase'
+                className='text-center text-primaryFont font-poppins underline underline-offset-2 font-bold italic uppercase'
             >
                 {ImageGalleryContent.title}
             </h2>
             <p 
-                className='text-base  text-center capitalize'
+                className='font-poppins text-extraSmall pt-4 lowercase  text-center '
                 >
                 {ImageGalleryContent.statement}
             </p>

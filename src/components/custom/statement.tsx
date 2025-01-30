@@ -9,12 +9,12 @@ interface statementprops {
 
 const Statement = (props: statementprops) => {
   return (
-    <section className={cn('relative mt-36 h-screen w-full',props.className)} id="statement">
-        <div className='w-full md:flex md:items-center md:justify-center '>
-            <h4 className=''>
+    <section className={cn('relative  md:mt-20  h-[80vh] max-w-md mx-auto font-bold leading-8 flex items-center tracking-wider  w-full',props.className)} id="statement">
+        
+            <h4 className='text-extraSmall font-poppins  capitalize font-bold text-right'>
                 {StatementContent.mainStatement}
             </h4>
-        </div>
+      
     </section>
   )
 }

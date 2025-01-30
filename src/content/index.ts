@@ -3,25 +3,26 @@ export const generalcontent = {
     privacyPolicy: "",
     termsOfService: "",
     socials: [
+        
         {
             label: 'facebook',
-            link : ""
+            link : "",
+            icon:"/assets/facebuk.png",
         },
         {
-            label: 'whatsapp',
-            link : ""
-        },
-        {
-            label: 'facebook',
-            link : ""
+            label: 'tiktok',
+            link : "",
+            icon:"/assets/tiktok.png",
         },
         {
             label: 'instagram',
-            link : ""
+            link : "",
+            icon:"/assets/insta.png",
         },
         {
             label: 'x',
-            link : ""
+            link : "",
+            icon: "/assets/x.png"
         },
 
     ]

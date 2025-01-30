@@ -4,49 +4,49 @@ export const ServicesContent = {
         {
             label:"Repairs",
             icon: Cog,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"Hardware Integrations",
             icon: Computer,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"hardware Upgrades",
             icon: ShieldMinus,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
 
         },
 
         {
             label:"Hardware Sales",
             icon: BadgeDollarSign,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"Laptop Products",
             icon: ShoppingBag,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"Custom Gaming Pc",
             icon: Gamepad,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"latest games",
             icon: Joystick,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"Windows updates",
             icon: AppWindow,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         },
         {
             label:"Wifi routers",
             icon: Router,
-            description: ''
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum ratione error a enim ipsa. Sint saepe, eum laudantium facere deleniti adipisci omnis suscipit porro iusto vel iste voluptas beatae. Tempora odit accusamus corrupti porro ipsa '
         }       
     ]
 }

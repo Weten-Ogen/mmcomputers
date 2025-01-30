@@ -3,13 +3,13 @@
 export const FooterContent  = {
     location : "Ahodwo,Kumasi(Ashanti-Region, Ghana)",
     copyRight: ``,
-    imageUrl: '',
+    imageUrl: '/images/gamingac.jpg',
     title: "Seek us for a better custom build gaming pc.",
     subTitle: "Talk to one of your hardware architect expert today.",
     callToAction: 'contact us',
     footernav: [
         {
-            label: 'solutions',
+            label: 'useful links',
             links : [
                 {
                     label:'services',
@@ -37,7 +37,7 @@ export const FooterContent  = {
             ],  
         },
         {
-            label: 'more',
+            label: 'our services',
             links : [
                 {
                     label:'contact us',
